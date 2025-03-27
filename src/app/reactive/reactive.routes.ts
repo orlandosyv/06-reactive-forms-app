@@ -5,7 +5,7 @@ import { SwitchesPageComponent } from "./pages/switches-page/switches-page.compo
 
 
 
-export const authRoutes: Routes = [
+export const reactiveRoutes: Routes = [
   {
     path: '',
     children: [
